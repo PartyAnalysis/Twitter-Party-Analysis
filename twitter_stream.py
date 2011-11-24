@@ -5,7 +5,7 @@ import re
 #Datubāzes inicializācija
 HOST = "localhost"
 USER = "grupa6"
-PASSWORD = "Eehoh6oh"
+PASSWORD = ""
 DATABASE = "grupa6"
 
 db = mysql.connector.Connect(host = HOST, user = USER, password = PASSWORD, database = DATABASE)
